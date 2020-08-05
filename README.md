@@ -2,8 +2,9 @@
 
 - 🔭 I’m currently working on Object Detection API and Low-Light Image Enhancement
 - 🌱 I’m currently learning Pytorch
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with High Dynamic Range data loading. :( 
+- 📫 How to reach me: vovantu.hust@gmail.com
+- ⚡ Fun fact: I'm just a learner 😄
 
 <!--
 **tuvovan/tuvovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
