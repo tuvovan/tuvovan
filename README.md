@@ -16,7 +16,7 @@ I'm always interested in meeting new people, so feel free to reach out to me usi
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuvovan&show_icons=true" alt="reisub0" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=tuvovan&show_icons=true" alt="tuvovan" /> 
 
 </p>
 <p align="left"> </p>
