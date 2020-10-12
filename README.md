@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Object Detection API and Low-Light Image Enhancement
-- 🌱 I’m currently learning Pytorch
 - 🤔 I’m looking for someone to collaborate in any computer vision related projects
 - 📫 How to reach me: vovantu.hust@gmail.com
-- ⚡ Fun fact: I'm just a learner 😄
 
 
 
