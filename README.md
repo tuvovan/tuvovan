@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 
-- 🔭 I’m currently working on Object Detection API and Low-Light Image Enhancement
+- 🔭 I’m currently working on Person Reidentification and Low-level Vision
 - 🤔 I’m looking for someone to collaborate in any computer vision related projects
 - 📫 How to reach me: vovantu.hust@gmail.com
 
@@ -15,8 +15,7 @@ I'm always interested in meeting new people, so feel free to reach out to me usi
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuvovan&show_icons=true" alt="tuvovan" /> 
-
+(https://github-readme-stats.vercel.app/api?username=tuvovan&show_icons=true&theme=radical)
 </p>
 <p align="left"> </p>
 -->
