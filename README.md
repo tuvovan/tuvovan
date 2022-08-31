@@ -19,11 +19,9 @@ I'm always interested in meeting new people, so feel free to reach out to me usi
 </p>
 <p align="left"> </p>
 -->
-
-<a href="#">
-<!-- (https://github-readme-stats.vercel.app/api?username=tuvovan&show_icons=true&theme=radical) -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-</a>
+<p>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=tuvovan&show_icons=true" alt="stat" />
+</p> 
 
 ### Hello there 👋 
 
