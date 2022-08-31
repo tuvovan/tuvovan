@@ -21,7 +21,8 @@ I'm always interested in meeting new people, so feel free to reach out to me usi
 -->
 
 <a href="#">
-(https://github-readme-stats.vercel.app/api?username=tuvovan&show_icons=true&theme=radical)
+<!-- (https://github-readme-stats.vercel.app/api?username=tuvovan&show_icons=true&theme=radical) -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </a>
 
 ### Hello there 👋 
