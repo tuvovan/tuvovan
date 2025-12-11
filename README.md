@@ -13,16 +13,6 @@ I'm always interested in meeting new people, so feel free to reach out to me usi
   <a href="mailto:vovantu.hust@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
   <a href="https://linkedin.com/in/tuvv"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20"     width="20" /></a>
 </p>
-
-<p align="left">
-(https://github-readme-stats.vercel.app/api?username=tuvovan&show_icons=true&theme=radical)
-</p>
-<p align="left"> </p>
--->
-<p>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=tuvovan&show_icons=true" alt="stat" />
-</p> 
-
 ### Hello there 👋 
 
 
