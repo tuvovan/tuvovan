@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 
-- 🔭 I’m currently working on Person Reidentification and Low-level Vision
+- 🔭 I’m currently working on Low-level Vision and Diffusion Models
 - 🤔 I’m looking for someone to collaborate in any computer vision related projects
 - 📫 How to reach me: vovantu.hust@gmail.com
 
